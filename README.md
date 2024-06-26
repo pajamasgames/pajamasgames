@@ -1,6 +1,6 @@
 - 👋 Hi, we are @pajamasgames
 - 👀 We are interested in casual game development focusing on technological training solutions, to different market segments.
-- 💞️ We are looking to collaborate on pharmaceutical market.
+- 💞️ We are looking to collaborate with the pharmaceutical market.
 - 📫 You can reach us on contato@pajamasgames.com
 - ⚡ Fun fact: We work to everyone can work on pajamas.
 <!---
